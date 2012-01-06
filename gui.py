@@ -1,3 +1,4 @@
+#user interface library
 import pygame
 pygame.init()
 
